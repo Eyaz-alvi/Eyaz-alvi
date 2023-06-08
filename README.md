@@ -29,4 +29,4 @@ Technologies and languages I work with:
 Feel free to reach out to me through the following channels:
 
 - Email: eyazalvi@gmail.com
-- LinkedIn:
+- portfolio: https://eyaz-alvi.github.io/
