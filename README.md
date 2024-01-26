@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently a student at 8th grade 
+- 🔭 I’m currently a student at 9th grade 
 - 🌱 I’m currently learning HTML, CSS , Javascript
 - 🤔 I’m looking for help with learning Javascript
 - 💬 Ask me about Blogs
