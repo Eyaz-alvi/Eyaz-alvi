@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Eyaz-alvi/Eyaz-alvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Blogs
 - 📫 How to reach me: email
 - ⚡ Fun fact: I am funny.
--->
+
 
 # This is me
 
