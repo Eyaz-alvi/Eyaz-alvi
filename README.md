@@ -24,6 +24,8 @@ Technologies and languages I work with:
 
 [![HTML](https://img.shields.io/badge/-HTML-orange)](#) [![CSS](https://img.shields.io/badge/-CSS-blue)](#) [![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)](#)
 
+https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+
 ## Contact Me
 
 Feel free to reach out to me through the following channels:
